@@ -1,2 +1,4 @@
-FROM gcr.io/google-containers/kube-apiserver-amd64:v1.13.0
+FROM mirrorgooglecontainers/kube-controller-manager-amd64:v1.11.3
+
+
 
